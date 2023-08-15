@@ -1,0 +1,5 @@
+/* Exercicio 1 - Ele ira dizer que a variavel a é 10 e que a variavel b tambem é 10, depois ira dizer que a varivel b passou a ser 5, mas a variavel a permanece 10 ou seja console ira imprimar 10, 5.
+
+Exercicio 2- Console.log(a, b, c) ira imprimiar os valoros 10 10 10
+
+Exercicio 3 -  Primeiro definir nomes mais significativos para as variaveis p e t, vamos usar horas para p e diaria para t (nomes referentes a pergunta de cada uma) e depois o comnado alert vai dizer que voce recebe (resposta de diaria/resposta de horas)
